@@ -59,4 +59,4 @@ Power BI Desktop, DAX, Excel
 
 ## About Me
 Devadharshini K | 2026 CSE graduate | Looking for Data Analyst / BI roles
-[LinkedIn](paste-your-linkedin-profile-link)
+
